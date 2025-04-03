@@ -1,0 +1,131 @@
+ Tariff is the region name with code AUW-1 and belongs to emirate ABU DHABI whose code is AUH.
+Marfa is the region name with code AUW-2 and belongs to emirate ABU DHABI whose code is AUH.
+Madinat Zayed (Badazayed) is the region name with code AUW-3 and belongs to emirate ABU DHABI whose code is AUH.
+Ruwais is the region name with code AUW-5 and belongs to emirate ABU DHABI whose code is AUH.
+Ghayathi is the region name with code AUW-6 and belongs to emirate ABU DHABI whose code is AUH.
+Baraka is the region name with code AUW-7 and belongs to emirate ABU DHABI whose code is AUH.
+Jabel Dhana is the region name with code AUW-8 and belongs to emirate ABU DHABI whose code is AUH.
+Silla is the region name with code AUW-9 and belongs to emirate ABU DHABI whose code is AUH.
+Gwaifath is the region name with code AUW-10 and belongs to emirate ABU DHABI whose code is AUH.
+Delma Island is the region name with code AUW-11 and belongs to emirate ABU DHABI whose code is AUH.
+Das Island is the region name with code AUW-12 and belongs to emirate ABU DHABI whose code is AUH.
+Asab is the region name with code AUW-13 and belongs to emirate ABU DHABI whose code is AUH.
+Buhasa is the region name with code AUW-14 and belongs to emirate ABU DHABI whose code is AUH.
+Habshan -Gayathi Rd is the region name with code AUW-15 and belongs to emirate ABU DHABI whose code is AUH.
+Habshan -Madinat Zayed is the region name with code AUW-16 and belongs to emirate ABU DHABI whose code is AUH.
+Habshan - Tariff is the region name with code AUW-17 and belongs to emirate ABU DHABI whose code is AUH.
+Liwa - Qasr Al Sarab Area is the region name with code AUW-18 and belongs to emirate ABU DHABI whose code is AUH.
+Hamem is the region name with code AUW-19 and belongs to emirate ABU DHABI whose code is AUH.
+Sha is the region name with code AUW-20 and belongs to emirate ABU DHABI whose code is AUH.
+Baniyas West is the region name with code Ban-1 and belongs to emirate ABU DHABI whose code is AUH.
+China Camp (Worker City) is the region name with code Ban-2 and belongs to emirate ABU DHABI whose code is AUH.
+Wathba is the region name with code Ban-3 and belongs to emirate ABU DHABI whose code is AUH.
+Nahda is the region name with code Ban-4 and belongs to emirate ABU DHABI whose code is AUH.
+Adla, Al Fayah is the region name with code Ban-5 and belongs to emirate ABU DHABI whose code is AUH.
+Mafraq Hospital (SSMC) is the region name with code Ban-7 and belongs to emirate ABU DHABI whose code is AUH.
+Mohammed Bin Zayed City is the region name with code Ban-8 and belongs to emirate ABU DHABI whose code is AUH.
+ICAD 2,3,4,5 is the region name with code Ban-9 and belongs to emirate ABU DHABI whose code is AUH.
+Al Dafra Airbase is the region name with code Ban-10 and belongs to emirate ABU DHABI whose code is AUH.
+Parco Mall Near Salam city is the region name with code Ban-11 and belongs to emirate ABU DHABI whose code is AUH.
+Mussafah Al Shabiya is the region name with code Ban-12 and belongs to emirate ABU DHABI whose code is AUH.
+Musaffah Indst is the region name with code Ban-13 and belongs to emirate ABU DHABI whose code is AUH.
+Khaleefa City is the region name with code Ban-14 and belongs to emirate ABU DHABI whose code is AUH.
+Etihad Plaza is the region name with code Ban-15 and belongs to emirate ABU DHABI whose code is AUH.
+BANJESREEN - Al Maqta is the region name with code Ban-16 and belongs to emirate ABU DHABI whose code is AUH.
+Officer City - Abu Dhabi Gate is the region name with code Ban-17 and belongs to emirate ABU DHABI whose code is AUH.
+Petrol institute, Milco is the region name with code Ban-18 and belongs to emirate ABU DHABI whose code is AUH.
+Raha Beach, Mall is the region name with code Ban-19 and belongs to emirate ABU DHABI whose code is AUH.
+Al Dar is the region name with code Ban-20 and belongs to emirate ABU DHABI whose code is AUH.
+Abu Dhabi University is the region name with code Ban-21 and belongs to emirate ABU DHABI whose code is AUH.
+Sas Al Nakheel is the region name with code Ban-22 and belongs to emirate ABU DHABI whose code is AUH.
+UMMALNAR - MUSF is the region name with code Ban-23 and belongs to emirate ABU DHABI whose code is AUH.
+AUH AIRPORT is the region name with code Ban-24 and belongs to emirate ABU DHABI whose code is AUH.
+Masdar City is the region name with code Ban-25 and belongs to emirate ABU DHABI whose code is AUH.
+Yas Island is the region name with code Ban-26 and belongs to emirate ABU DHABI whose code is AUH.
+Khaleefa B - Shakhbout City is the region name with code Ban-27 and belongs to emirate ABU DHABI whose code is AUH.
+Shawamekh is the region name with code Ban-28 and belongs to emirate ABU DHABI whose code is AUH.
+Shamkha is the region name with code Ban-29 and belongs to emirate ABU DHABI whose code is AUH.
+Zayed Military City - Sweiahn Road is the region name with code Ban-30 and belongs to emirate ABU DHABI whose code is AUH.
+Hiliya is the region name with code Ban-31 and belongs to emirate ABU DHABI whose code is AUH.
+Old Al Falah is the region name with code Ban-32 and belongs to emirate ABU DHABI whose code is AUH.
+New Al Falah is the region name with code Ban-33 and belongs to emirate ABU DHABI whose code is AUH.
+Al Reef Villa is the region name with code Ban-34 and belongs to emirate ABU DHABI whose code is AUH.
+Shahamah New is the region name with code Ban-35 and belongs to emirate ABU DHABI whose code is AUH.
+Shahamah Old is the region name with code Ban-36 and belongs to emirate ABU DHABI whose code is AUH.
+Bahiya is the region name with code Ban-37 and belongs to emirate ABU DHABI whose code is AUH.
+Rahba is the region name with code Ban-38 and belongs to emirate ABU DHABI whose code is AUH.
+Ajban is the region name with code Ban-39 and belongs to emirate ABU DHABI whose code is AUH.
+Taweelah is the region name with code Ban-40 and belongs to emirate ABU DHABI whose code is AUH.
+EMAL is the region name with code Ban-41 and belongs to emirate ABU DHABI whose code is AUH.
+Shalila is the region name with code Ban-42 and belongs to emirate ABU DHABI whose code is AUH.
+Al Sader is the region name with code Ban-43 and belongs to emirate ABU DHABI whose code is AUH.
+Samha is the region name with code Ban-44 and belongs to emirate ABU DHABI whose code is AUH.
+Ghantoot is the region name with code Ban-45 and belongs to emirate ABU DHABI whose code is AUH.
+Ashoosh is the region name with code Ban-46 and belongs to emirate ABU DHABI whose code is AUH.
+Advanced scientific group is the region name with code Ban-48 and belongs to emirate ABU DHABI whose code is AUH.
+Delma Island is the region name with code Delma - 1 and belongs to emirate ABU DHABI whose code is AUH.
+Baniyas is the region name with code BAN and belongs to emirate ABU DHABI whose code is AUH.
+TCA AREA is the region name with code AUH-TCA and belongs to emirate ABU DHABI whose code is AUH.
+AL FALAH STREET AREA is the region name with code AUH-ALFALAHSTREET and belongs to emirate ABU DHABI whose code is AUH.
+ZIYANI AREA is the region name with code AUH-ZIYANIAREA and belongs to emirate ABU DHABI whose code is AUH.
+PASSPORT ROAD AREA is the region name with code AUH-PASSPORTROAD and belongs to emirate ABU DHABI whose code is AUH.
+MADINAT ZAYED AREA is the region name with code AUH-MADINATZAYED and belongs to emirate ABU DHABI whose code is AUH.
+AUH CORNICHE is the region name with code AUH-CORNICHE and belongs to emirate ABU DHABI whose code is AUH.
+ALBATEEN AREA AUH is the region name with code AUH-ALBATEEN and belongs to emirate ABU DHABI whose code is AUH.
+AUH KHALIDIYA AREA is the region name with code AUH-KHALIDIYA and belongs to emirate ABU DHABI whose code is AUH.
+AL MUSHRIF AREA - AUH is the region name with code AUH-ALMUSHRIF-AREA and belongs to emirate ABU DHABI whose code is AUH.
+RAK AREA - AUH is the region name with code AUH-RAK-AREA and belongs to emirate ABU DHABI whose code is AUH.
+NEW MAHARBA AREA  - AUH is the region name with code AUH-NEW-MAHARBA and belongs to emirate ABU DHABI whose code is AUH.
+AL ZAAB AREA - AUH is the region name with code AUH-ALZAABAREA and belongs to emirate ABU DHABI whose code is AUH.
+AIRPORT ROAD -AUH is the region name with code AUH-AIPORTROAD and belongs to emirate ABU DHABI whose code is AUH.
+ZAYED PORT - MINA is the region name with code AUH-ZAYEDPORT-MINA and belongs to emirate ABU DHABI whose code is AUH.
+AUH EMIRATES PALACE is the region name with code AUH-EMIRATES-PALACE and belongs to emirate ABU DHABI whose code is AUH.
+AUH ALSADIYAT ISLAND is the region name with code AUH-ALSADIYAT and belongs to emirate ABU DHABI whose code is AUH.
+AUH SOWA ISLAND is the region name with code AUH-SOWA and belongs to emirate ABU DHABI whose code is AUH.
+AUH ALREEM ISLAND is the region name with code AUH-ALREEM and belongs to emirate ABU DHABI whose code is AUH.
+AUH MARINA MALL is the region name with code AUH-MARINA and belongs to emirate ABU DHABI whose code is AUH.
+ABU DHABI MALL is the region name with code AUH-MALL and belongs to emirate ABU DHABI whose code is AUH.
+AUH SEA PLACE is the region name with code AUH-SEA-PLACE and belongs to emirate ABU DHABI whose code is AUH.
+AUH POWER HOUSE AREA is the region name with code AUH-POWER-AREA and belongs to emirate ABU DHABI whose code is AUH.
+AUH EMBASSY AREA is the region name with code AUH-EMBASSY-AREA and belongs to emirate ABU DHABI whose code is AUH.
+AUH ANEC AREA is the region name with code AUH-ADNEC and belongs to emirate ABU DHABI whose code is AUH.
+AUH NEW MUSHREF is the region name with code AUH-NEW-MUSHREF and belongs to emirate ABU DHABI whose code is AUH.
+AUH OLD MUSHREF is the region name with code AUH-OLD-MUSHREF and belongs to emirate ABU DHABI whose code is AUH.
+AUH GULF STREET is the region name with code AUH-GULF-STREET and belongs to emirate ABU DHABI whose code is AUH.
+AUH DELMA STREET is the region name with code AUH-DELMA-STREET and belongs to emirate ABU DHABI whose code is AUH.
+AUH KHALIFA STREET is the region name with code AUH-KHALIFA-STREET and belongs to emirate ABU DHABI whose code is AUH.
+SALAM STREET AREA is the region name with code AUH-SALAM-STREET and belongs to emirate ABU DHABI whose code is AUH.
+HAMDAN STREET AUH is the region name with code AUH-HAMDAN and belongs to emirate ABU DHABI whose code is AUH.
+AUH KARAMA AREA is the region name with code AUH-KARAMA and belongs to emirate ABU DHABI whose code is AUH.
+KHALIFA PARK AREA is the region name with code AUH-KHALIFA-PARK and belongs to emirate ABU DHABI whose code is AUH.
+AUH NAVY GATE is the region name with code AUH-NAVY and belongs to emirate ABU DHABI whose code is AUH.
+ZAYED SPORTS CITY - AUH is the region name with code AUH-ZAYED-SPORT-CITY and belongs to emirate ABU DHABI whose code is AUH.
+MUROOR ROAD - AUH is the region name with code AUH-MUROOR-ROAD and belongs to emirate ABU DHABI whose code is AUH.
+Romaitha is the region name with code AUW-28 and belongs to emirate ABU DHABI whose code is AUH.
+DABIYA is the region name with code AUW-27 and belongs to emirate ABU DHABI whose code is AUH.
+Al-Zina Area is the region name with code BAN-49 and belongs to emirate ABU DHABI whose code is AUH.
+AUH-Khalidiya-Cornish is the region name with code AUH-KHALIDIYA-2 and belongs to emirate ABU DHABI whose code is AUH.
+DAS ISLAND is the region name with code DAS-001 and belongs to emirate ABU DHABI whose code is AUH.
+Khalifa City is the region name with code KAF001 and belongs to emirate ABU DHABI whose code is AUH.
+Al Rahba is the region name with code RAH001 and belongs to emirate ABU DHABI whose code is AUH.
+Al Musafah is the region name with code MUS001 and belongs to emirate ABU DHABI whose code is AUH.
+Al Dhanna City is the region name with code RUW001 and belongs to emirate ABU DHABI whose code is AUH.
+Al Butain is the region name with code BUT001 and belongs to emirate ABU DHABI whose code is AUH.
+RAWDATH AREA is the region name with code AUH-RAWDATH and belongs to emirate ABU DHABI whose code is AUH.
+MUZOON AREA is the region name with code AUH-MUZOON and belongs to emirate ABU DHABI whose code is AUH.
+HUDARIYAT AREA is the region name with code AUH-HUDARIYAT and belongs to emirate ABU DHABI whose code is AUH.
+EASTERN MANGROVE is the region name with code AUH-MANGROVE and belongs to emirate ABU DHABI whose code is AUH.
+NAHYAN AREA is the region name with code AUH-NAHYAN and belongs to emirate ABU DHABI whose code is AUH.
+LIWA STREET is the region name with code AUH-LIWA ST and belongs to emirate ABU DHABI whose code is AUH.
+CORNISH AREA is the region name with code AUH-CORNISH and belongs to emirate ABU DHABI whose code is AUH.
+Nareel Island is the region name with code AUH-NARSEEL and belongs to emirate ABU DHABI whose code is AUH.
+Shamkha South - Madinat Al Riyad is the region name with code BAN-51 and belongs to emirate ABU DHABI whose code is AUH.
+Zayed Military City (Ssahamah dxb Road) is the region name with code BAN-53 and belongs to emirate ABU DHABI whose code is AUH.
+Muazaz  (Baniyas ) is the region name with code BAN-54 and belongs to emirate ABU DHABI whose code is AUH.
+Muazaz (Shamkha ) is the region name with code BAN-55 and belongs to emirate ABU DHABI whose code is AUH.
+Bainoona is the region name with code BAIN-001 and belongs to emirate ABU DHABI whose code is AUH.
+Beda Al Mutawa is the region name with code AUW-29 and belongs to emirate ABU DHABI whose code is AUH.
+MUSSAFFA ICAD-1 is the region name with code MUS002 and belongs to emirate ABU DHABI whose code is AUH.
+Razeen - Al Wathba (1,2,3 & 4) is the region name with code BAN-56 and belongs to emirate ABU DHABI whose code is AUH.
+Dummy Region Rahba is the region name with code DUM003 and belongs to emirate ABU DHABI whose code is AUH.
+Dummy Region Baniyas is the region name with code DUM005 and belongs to emirate ABU DHABI whose code is AUH.

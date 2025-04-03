@@ -1,0 +1,7 @@
+.aixplain_cache
+app/__pycache__
+app/.aixplain_cache
+app/chroma_db_all
+app/.env
+chroma_db_all
+venv
