@@ -1,4 +1,5 @@
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import os, time, re
 from pathlib import Path
@@ -12,6 +13,14 @@ from aixplain.factories import ModelFactory
 
 load_dotenv()
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"], 
+    allow_credentials=True,
+    allow_methods=["*"],  
+    allow_headers=["*"],  
+)
 
 json_parser = JsonOutputParser()
 selected_model = ModelFactory.get("6646261c6eb563165658bbb1")
